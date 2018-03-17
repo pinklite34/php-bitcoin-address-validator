@@ -76,7 +76,7 @@ class AddressValidatorTest extends PHPUnit_Framework_TestCase {
         '13p1ijLwsnrcuyqcTvJXkq2ASdXqcnEBLE'
     ];
 
-    protected $validTestnet = [
+    protected $validTestnet = [mi6joQgzcuBrr65X5B3rjNhXcycogq8jyc,mopYsdhQwg2YLZ55SQaaFm1z1sKbYybzQS
         'mo9ncXisMeAoXwqcV5EWuyncbmCcQN4rVs',
         'n3ZddxzLvAY9o7184TB4c6FJasAybsw4HZ',
         'n3LnJXCqbPjghuVs8ph9CYsAe4Sh4j97wk',
@@ -95,7 +95,7 @@ class AddressValidatorTest extends PHPUnit_Framework_TestCase {
         '3ALJH9Y951VCGcVZYAdpA3KchoP9McEj1G'
     ];
 
-    protected $scriptTestnet = [
+    protected $scriptTestnet = [2N85h7yXxGHzqAjcX6J1Dv1fH8qHfuQcn5N,2NBXCRFRJQAobYkkLi8NqSmEFVXpfT5HKGj
         '2N2JD6wb56AfK4tfmM6PwdVmoYk2dCKf4Br',
         '2NBFNJTktNa7GZusGbDbGKRZTxdK9VVez3n',
         '2NB72XtkjpnATMggui83aEtPawyyKvnbX2o',
